@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master of Science - Mechanical engineer
 ---------------------------------------
 
-I am mechanical engineer with a master of science from Delft university of Technology. I have been working in C++ for 3 years and python for 4 years. I love programming and learn about data science, machine learning, numerical optimization and software engineering. I am interested on learning new programming languages such as Java, Julia, react.js. Enjoy learning science everyday!!!
+I am mechanical engineer with a master of science from Delft university of Technology. I have been working in C++ for 3 years and python for 3 years. I love programming and learn about data science, machine learning, numerical optimization, science and software engineering. I am interested on learning new programming languages such as Java, Julia, react.js. Enjoy learning science everyday!!!
 
 * 🌍  I'm based in Rotterdam
 * ✉️  You can contact me at [c.m.ubal@gmail.com](mailto:c.m.ubal@gmail.com)
