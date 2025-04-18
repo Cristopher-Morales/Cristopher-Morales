@@ -30,4 +30,4 @@ I am a mechanical engineer with a master of science from Delft University of Tec
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Cristopher-Morales/Machine_Learning_Notebooks" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristopher-Morales&repo=Machine_Learning_Notebooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Cristopher-Morales/Statistical-Inference" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristopher-Morales&repo=Statistical-Inference&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
