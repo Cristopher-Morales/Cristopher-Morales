@@ -6,7 +6,7 @@ Master of Science - Mechanical engineer
 
 I am a motivated mechanical engineer who is seeking to improve and broaden my experience in the field of engineering, programming, data science, machine learning and eager to deepen my knowledge and elaborate impactful applications. I have always enjoyed studying and applying what I have learnt into practical problems. I obtained a Master in Mechanical Engineering, track energy, flow and process technology at TU Delft in the Netherlands. I have been working in C++ and Python for 4 years. I am currently learning new programming languages such as R. Enjoy learning every day!!!
 
-* 🌍  I'm based in Rotterdam
+* 🌍  I'm based in Amsterdam
 * ✉️  You can contact me at [c.m.ubal@gmail.com](mailto:c.m.ubal@gmail.com)
 * 🧠  I'm learning R.
 * 🤝  I'm open to collaborating on projects
