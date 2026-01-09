@@ -23,4 +23,4 @@ I am a motivated mechanical engineer who is seeking to improve and broaden my ex
 
 ### Badges
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=Cristopher-Morales)](https://github.com/Cristopher-Morales/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=Cristopher-Morales)](https://github.com/anuraghazra/github-readme-stats)
