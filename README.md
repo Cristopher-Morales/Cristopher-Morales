@@ -23,12 +23,4 @@ I am a motivated mechanical engineer who is seeking to improve and broaden my ex
 
 ### Badges
 
-<a href="https://github.com/Cristopher-Morales" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristopher-Morales&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Cristopher-Morales/SU2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristopher-Morales&repo=SU2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Cristopher-Morales/Master-Thesis---Machine-Learning-scripts" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristopher-Morales&repo=Master-Thesis---Machine-Learning-scripts&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Cristopher-Morales/Statistical-Inference" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristopher-Morales&repo=Statistical-Inference&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Cristopher-Morales/Machine_Learning_Notebooks" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cristopher-Morales&repo=Machine_Learning_Notebooks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=Cristopher-Morales)](https://github.com/Cristopher-Morales/github-readme-stats)
