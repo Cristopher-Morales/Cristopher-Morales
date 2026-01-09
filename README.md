@@ -23,7 +23,7 @@ I am a motivated mechanical engineer who is seeking to improve and broaden my ex
 
 ### Badges
 
-<a href="https://github.com/Cristopher-Morales" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristopher-Morales&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CRISTOPHER-MORALES)](https://github.com/CRISTOPHER-MORALES/github-readme-stats)
 
 <b>Top Repositories</b>
 
