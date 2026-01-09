@@ -23,4 +23,4 @@ I am a motivated mechanical engineer who is seeking to improve and broaden my ex
 
 ### Badges
 
-![Top Languages](https://github-readme-stats-ten-theta-87.vercel.app/api/top-langs/?username=Cristopher-Morales&layout=compact&langs_count=6&size_weight=0.6&count_weight=0.4&hide=html,css,tex,jupyter%20notebook,cmake,makefile,shell,matlab,fortran&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=ML%20%2B%20CFD%20Core%20Languages)
+![Top Lang](https://github-readme-stats-ten-theta-87.vercel.app/api/top-langs/?username=Cristopher-Morales&layout=compact&langs_count=6&size_weight=0.6&count_weight=0.4&hide=html,css,tex,jupyter%20notebook,cmake,makefile,shell,matlab,fortran&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=ML%20%2B%20CFD%20Core%20Languages)
