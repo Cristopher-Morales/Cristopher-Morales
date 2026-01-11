@@ -24,3 +24,26 @@ I am a motivated mechanical engineer who is seeking to improve and broaden my ex
 ### Badges
 
 ![Top Lang](https://github-readme-stats-ten-theta-87.vercel.app/api/top-langs/?username=Cristopher-Morales&layout=compact&langs_count=6&size_weight=0.6&count_weight=0.4&hide=html,css,tex,jupyter%20notebook,cmake,makefile,shell,matlab,fortran&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=ML%20%2B%20CFD%20Core%20Languages)
+
+## Open-source contributions
+
+### Computational Fluid Dynamics (CFD)
+
+**SU2** (open-source CFD solver)
+
+Developer with 25+ merged pull requests since 2022, focusing on
+incompressible and compressible flows, multicomponent fluid models, species transport, and
+thermophysical modeling.
+
+**Selected contributions:**
+- Preconditioning for multicomponent flows (C++)
+- Composition-dependent viscosity, density, heat capacity, and conductivity models (C++)
+- Boundary condition improvements for SST and SA turbulence models (C++)
+- Species transport and flamelet models (C++)
+- Diffusivity models (C++)
+- Solver stability (C++)
+
+🔗 Contributions: https://github.com/su2code/SU2/pulls?q=is%3Apr+author%3ACristopher-Morales+is%3Amerged
+
+**Languages:** C++, Python  
+**Domains:** CFD, turbulence modeling, thermodynamics, numerical methods
