@@ -36,14 +36,14 @@ incompressible and compressible flows, multicomponent fluid models, species tran
 thermophysical modeling.
 
 **Selected contributions:**
+
 - Preconditioning for multicomponent flows (C++)
-- Composition-dependent viscosity, density, heat capacity, and conductivity models (C++)
+- Composition-dependent viscosity, density, heat capacity, diffusivity and conductivity models (C++)
 - Boundary condition improvements for SST and SA turbulence models (C++)
 - Species transport and flamelet models (C++)
-- Diffusivity models (C++)
 - Solver stability (C++)
 
-🔗 Contributions: https://github.com/su2code/SU2/pulls?q=is%3Apr+author%3ACristopher-Morales+is%3Amerged
+🔗 Contributions: [merged PRs](https://github.com/su2code/SU2/pulls?q=is%3Apr+author%3ACristopher-Morales+is%3Amerged)
 
 **Languages:** C++, Python  
-**Domains:** CFD, turbulence modeling, thermodynamics, numerical methods
+**Domains:** CFD, multicomponent and reacting flows, laminar flows, turbulence modelling, numerical methods.
